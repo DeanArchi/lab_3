@@ -1,0 +1,6 @@
+File Name: textfile.txt
+Language: en
+Output: file
+Characters: 600
+Words: 100
+Sentences: 10
